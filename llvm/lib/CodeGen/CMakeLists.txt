@@ -72,6 +72,7 @@ add_llvm_component_library(LLVMCodeGen
   IndirectBrExpandPass.cpp
   InlineSpiller.cpp
   InterferenceCache.cpp
+  InterferenceGraph.cpp
   InterleavedAccessPass.cpp
   InterleavedLoadCombinePass.cpp
   IntrinsicLowering.cpp
